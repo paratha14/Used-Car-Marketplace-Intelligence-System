@@ -55,7 +55,7 @@ Predicts whether a car needs maintenance using:
 2. Train the regression and classification models separately  
 3. Input car details through script/notebook  
 4. Receive:  
-   - 💰 Predicted car price  
-   - 🔧 Maintenance requirement (Yes/No)
+   - Predicted car price  
+   - Maintenance requirement (Yes/No)
 
 ---
